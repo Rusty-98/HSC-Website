@@ -1,0 +1,22 @@
+
+.back{
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-size: cover;
+    background-position: center;
+}
+
+.DC{
+    background-image: linear-gradient(rgba(53, 53, 53, 0.5), rgba(53, 53, 53, 0.5)), url('./DC.jpg');
+}
+
+.GRUV{
+    background-image: linear-gradient(rgba(53, 53, 53, 0.5), rgba(53, 53, 53, 0.5)),url('./groove.jpg');
+}
+
+.OCTAVE{
+    background-image: linear-gradient(rgba(53, 53, 53, 0.5), rgba(53, 53, 53, 0.5)),url('./oct.png');
+}
+.KALAKASH{
+    background-image: linear-gradient(rgba(53, 53, 53, 0.5), rgba(53, 53, 53, 0.5)),url('./kala.jpg');
+}
