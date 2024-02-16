@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Sam';
+    src: url(../public/SAMAN___.ttf);
+}
+
+.name{
+    font-family: 'Sam';
+    color: white;
+}
